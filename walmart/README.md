@@ -17,7 +17,11 @@ The dataset (.csv file) is included in project folder.
 
 ## References
 
-- [Walmart Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/walmart-dataset) (The dataset used in this project is based on the Kaggle dataset with modifications by Jedha).
+- [Walmart Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/walmart-dataset) (dataset used in this project is based on the Kaggle dataset with modifications by Jedha).
+
+- [How to check if any holiday is included in a time period in python](https://stackoverflow.com/questions/55388361/how-to-check-if-any-holiday-is-included-in-a-time-period-in-python)
+
+- [Convert string month year (where year is only a two digits) to datetime in pandas](https://stackoverflow.com/questions/73288353/convert-string-month-year-where-year-is-only-a-two-digits-to-datetime-in-panda) 
 
 - Photo by <a href="https://unsplash.com/@_gemmajade?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">gemma</a> on <a href="https://unsplash.com/photos/stpjHJGqZyw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
