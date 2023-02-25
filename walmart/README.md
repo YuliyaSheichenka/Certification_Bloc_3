@@ -23,5 +23,7 @@ The dataset (.csv file) is included in project folder.
 
 - [Convert string month year (where year is only a two digits) to datetime in pandas](https://stackoverflow.com/questions/73288353/convert-string-month-year-where-year-is-only-a-two-digits-to-datetime-in-panda) 
 
+- [Encoding features like month and hour as categorial or numeric?](https://datascience.stackexchange.com/questions/17759/encoding-features-like-month-and-hour-as-categorial-or-numeric)
+
 - Photo by <a href="https://unsplash.com/@_gemmajade?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">gemma</a> on <a href="https://unsplash.com/photos/stpjHJGqZyw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
