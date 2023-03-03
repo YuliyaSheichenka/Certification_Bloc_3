@@ -41,14 +41,11 @@ The file contains plots allowing to compare the f1-score of the models on the tr
 
 
  ## References
-
- - [Walmart Dataset on Kaggle](https://www.kaggle.com/datasets/yasserh/walmart-dataset) (dataset used in this project is based on the Kaggle dataset with modifications by Jedha).
-
-- [How to check if any holiday is included in a time period in python](https://stackoverflow.com/questions/55388361/how-to-check-if-any-holiday-is-included-in-a-time-period-in-python)
-
-- [Convert string month year (where year is only a two digits) to datetime in pandas](https://stackoverflow.com/questions/73288353/convert-string-month-year-where-year-is-only-a-two-digits-to-datetime-in-panda) 
-
-- [Encoding features like month and hour as categorial or numeric?](https://datascience.stackexchange.com/questions/17759/encoding-features-like-month-and-hour-as-categorial-or-numeric)
-
-- Photo by <a href="https://unsplash.com/@_gemmajade?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">gemma</a> on <a href="https://unsplash.com/photos/stpjHJGqZyw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
+- [Feature Importance and Feature Selection With XGBoost in Python](https://machinelearningmastery.com/feature-importance-and-feature-selection-with-xgboost-in-python)
+
+- [Feature importance for VotingClassifers?](https://github.com/scikit-learn/scikit-learn/discussions/22569)
+
+- [How to set center color in heatmap](https://stackoverflow.com/questions/56536419/how-to-set-center-color-in-heatmap)
+
+- [11 Ways to Get Visitors to Spend More Time on Your Website](https://www.entrepreneur.com/science-technology/11-ways-to-get-visitors-to-spend-more-time-on-your-website/418094)
