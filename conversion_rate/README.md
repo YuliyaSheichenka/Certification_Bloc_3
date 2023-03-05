@@ -39,6 +39,11 @@ The project includes several files:
 
 The file contains plots allowing to compare the f1-score of the models on the train part of the labelled dataset, on the test part of the labelled dataset, and on the test unlabelled dataset (this score was communicated by Jedha instructors who tested the model on the unlabelled dataset).
 
+The project folder also includes:
+- dataset files as explained in *Context* section
+- .csv files with feature importance for each of the models
+- .xlsx file with information on f1 scores of the models
+
 
  ## References
   
