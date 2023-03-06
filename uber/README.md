@@ -24,7 +24,7 @@ The project includes several files:
 
         1_uber_dbscan.ipynb
 
-2. Finding pickup hot-zones with KMeans clustering algorithm
+2. Finding pickup hot-zones with KMeans clustering algorithm (EDA is identical to the previous file)
 
         2_uber_kmeans.ipynb
 
@@ -38,7 +38,7 @@ The project folder also includes:
 
  ## References
   
-- [Full dataset on AWS S3 bucket](hhttps://uber-28-02-2023.s3.eu-west-3.amazonaws.com/uber-trip-data.zip)
+- [Full dataset on AWS S3 bucket](https://uber-28-02-2023.s3.eu-west-3.amazonaws.com/uber-trip-data.zip)
 
 - [Uber pickups in New York City dataset on Kaggle](https://www.kaggle.com/datasets/fivethirtyeight/uber-pickups-in-new-york-city)
 
