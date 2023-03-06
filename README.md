@@ -14,8 +14,8 @@ You can write me at **sheichenkojuly@gmail.com**
 ## Context 
 
 This certification bloc consists of 3 projects:
-- **Supervized Machine Learning**: Walmart and Conversion Rate,
-- **Unsupervized Machine Learning**: Uber
+- **Supervized Machine Learning**: *Walmart* and *Conversion Rate Challenge*,
+- **Unsupervized Machine Learning**: *Uber Pickups*
 
 You can find more detailed information about each project in its respective folder.
 
