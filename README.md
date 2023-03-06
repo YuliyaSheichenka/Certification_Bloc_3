@@ -5,7 +5,7 @@
 
 ## Video presentation
 
-[Bloc 3: Walmart, Conversion Rate Challenge and Uber Pickups projects - Video presentation](https://share.vidyard.com/watch/VCRh8Hrppion5bxB5KjUMz?)
+[Bloc 3: Walmart, Conversion Rate Challenge and Uber Pickups projects - Video presentation](https://share.vidyard.com/watch/3cry4m6X9VtkNYBbVt2nKL?)
 
 ## Contact
 
