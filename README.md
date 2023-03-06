@@ -5,7 +5,7 @@
 
 ## Video presentation
 
-[Bloc 3: Walmart, Conversion Rate and Uber projects - Video presentation](xxx)
+[Bloc 3: Walmart, Conversion Rate Challenge and Uber Pickups projects - Video presentation](xxx)
 
 ## Contact
 
